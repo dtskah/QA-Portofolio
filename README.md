@@ -26,7 +26,7 @@ My expertise includes:
 ## 📄 QA Portfolio (PDF)
 📥 Click the link below to view my detailed QA portfolio:
 
-👉 [View Full Portfolio (PDF)](./TriSeptaKurniaPortofolio.pdf)
+👉 [View Full Portfolio (PDF)](./Tri-Septa-Kurnia-Portofolio.pdf)
 
 ---
 
@@ -41,5 +41,5 @@ My expertise includes:
 ---
 
 ## 📫 Contact
-- **Email:** [trisepta@example.com](mailto:trisepta@example.com)  
-- **LinkedIn:** [linkedin.com/in/triseptakurnia](https://linkedin.com/in/triseptakurnia)
+- **Email:** [triseptakurnia@gmail.com](triseptakurnia@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/triseptakurnia]([https://linkedin.com/in/triseptakurnia](https://www.linkedin.com/in/tri-septa-kurnia-01b987164/))
