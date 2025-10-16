@@ -42,4 +42,4 @@ My expertise includes:
 
 ## 📫 Contact
 - **Email:** [triseptakurnia@gmail.com](triseptakurnia@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/triseptakurnia]([https://linkedin.com/in/triseptakurnia](https://www.linkedin.com/in/tri-septa-kurnia-01b987164/))
+- **LinkedIn:** [LinkedIn – Tri Septa Kurnia](https://www.linkedin.com/in/tri-septa-kurnia-01b987164/)
