@@ -41,5 +41,6 @@ My expertise includes:
 ---
 
 ## 📫 Contact
+- [WhatsApp](https://wa.me/6282221347070)
 - **Email:** [triseptakurnia@gmail.com](triseptakurnia@gmail.com)  
 - **LinkedIn:** [LinkedIn – Tri Septa Kurnia](https://www.linkedin.com/in/tri-septa-kurnia-01b987164/)
