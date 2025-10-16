@@ -23,10 +23,9 @@ My expertise includes:
 
 ---
 
-## 📄 QA Portfolio (PDF)
-📥 Click the link below to view my detailed QA portfolio:
-
-👉 [View Full Portfolio (PDF)](./Tri-Septa-Kurnia-Portofolio.pdf)
+## 📄 Portfolio
+You can view my QA portfolio here:  
+👉 [Tri Septa Kurnia – QA Portfolio (PDF)](https://github.com/dtskah/QA-Portofolio/blob/main/Tri-Septa-Kurnia-Portofolio.pdf)
 
 ---
 
