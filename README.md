@@ -1,4 +1,4 @@
-# 🌟 QA Manual Portfolio – Tri Septa Kurnia
+# 🌟 Tri Septa Kurnia - QA Manual Portfolio
 
 Welcome to my professional portfolio as a **Manual Quality Assurance (QA) Tester**.  
 This repository showcases my experience, testing approach, and portfolio document in PDF format.
