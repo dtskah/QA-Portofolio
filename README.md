@@ -35,7 +35,8 @@ You can view my QA portfolio here:
 - Test Case Writing & Execution  
 - Defect Tracking & Reporting  
 - API Testing (Postman)  
-- Agile/Scrum Collaboration  
+- Agile/Scrum Collaboration
+- SDLC & STLC  
 
 ---
 
