@@ -1,7 +1,7 @@
 # 🌟 Tri Septa Kurnia - QA Manual Portfolio
 
 Welcome to my professional portfolio as a **Manual Quality Assurance (QA) Tester**.  
-This repository showcases my experience, testing approach, and portfolio document in PDF format.
+This repository showcases my experience, testing, and portfolio document in PDF format.
 
 ---
 
@@ -9,7 +9,7 @@ This repository showcases my experience, testing approach, and portfolio documen
 I am a passionate QA professional with **over 5 years of experience** in software quality assurance.  
 My expertise includes:
 
-- Designing and executing comprehensive test cases  
+- Designing and executing test cases  
 - Performing functional, regression, UAT and SIT testing  
 - Preparing detailed test documentation and defect reports
 - Preparing comprehensive QA documentation:  
@@ -18,8 +18,8 @@ My expertise includes:
   - **SRS (Software Requirement Specification)**  
   - **FSD (Functional Specification Document)**  
   - **User Guide / User Manual** 
-- Collaborating across teams in **Agile/Scrum** environments  
-- Using tools such as **Jira**, **Jira**, **Figma**, **Balsamiq** and **Postman**  
+- Collaborating across teams in **Agile/Scrum** and **Waterfall** environments and implements **SDLC** and **STLC**
+- Using tools such as **Jira**, **Jira**, **Figma**, **Balsamiq** and **Postman**
 
 ---
 
